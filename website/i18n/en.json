@@ -74,6 +74,9 @@
       "wdio-json-reporter": {
         "title": "JSON Reporter"
       },
+      "wdio-markdown-reporter": {
+        "title": "Markdown Reporter"
+      },
       "wdio-mochawesome-reporter": {
         "title": "Mochawesome Reporter"
       },
